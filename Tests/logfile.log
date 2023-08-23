@@ -1,0 +1,36 @@
+2023-05-07 22:08:27,432 :INFO : test_onboardingEntity1 :GST Number
+2023-05-07 22:08:42,033 :INFO : test_onboardingEntity2 :GST Number
+2023-05-07 22:08:42,108 :INFO : test_onboardingEntity2 :invalid GST
+2023-05-07 22:09:08,289 :INFO : test_onboardingEntity6 :checkbox selected
+2023-05-07 22:34:21,601 :INFO : test_onboardingEntity1 :GST Number
+2023-05-07 22:34:44,076 :INFO : test_onboardingEntity2 :GST Number
+2023-05-07 22:34:44,197 :INFO : test_onboardingEntity2 :invalid GST
+2023-05-07 22:35:30,857 :INFO : test_onboardingEntity6 :checkbox selected
+2023-05-07 22:40:15,799 :INFO : test_onboardingEntity1 :GST Number
+2023-05-07 22:40:41,241 :INFO : test_onboardingEntity2 :GST Number
+2023-05-07 22:40:41,369 :INFO : test_onboardingEntity2 :invalid GST
+2023-05-07 22:41:28,236 :INFO : test_onboardingEntity6 :checkbox selected
+2023-05-07 22:55:10,465 :INFO : test_onboardingEntity1 :GST Number
+2023-05-07 22:57:10,415 :INFO : test_onboardingEntity1 :GST Number
+2023-05-07 23:02:37,816 :INFO : test_onboardingEntity1 :GST Number
+2023-05-07 23:09:47,758 :INFO : test_onboardingEntity1 :GST Number
+2023-05-07 23:10:10,888 :INFO : test_onboardingEntity2 :GST Number
+2023-05-07 23:10:11,027 :INFO : test_onboardingEntity2 :invalid GST
+2023-05-07 23:10:35,585 :INFO : test_onboardingEntity4 :Enter all the Credentials marked with Asterisk*
+2023-05-08 13:42:17,253 :INFO : test_onboardingEntity1 :GST Number
+2023-05-08 13:42:36,468 :INFO : test_onboardingEntity2 :GST Number
+2023-05-08 13:42:36,552 :INFO : test_onboardingEntity2 :invalid GST
+2023-05-08 13:43:08,345 :INFO : test_onboardingEntity4 :Enter all the Credentials marked with Asterisk*
+2023-05-08 13:43:42,186 :INFO : test_onboardingEntity6 :checkbox selected
+2023-05-08 13:53:42,909 :INFO : test_onboardingEntity2 :GST Number
+2023-05-08 13:53:43,037 :INFO : test_onboardingEntity2 :invalid GST
+2023-05-08 13:54:10,326 :INFO : test_onboardingEntity4 :Enter all the Credentials marked with Asterisk*
+2023-05-08 13:54:40,168 :INFO : test_onboardingEntity6 :checkbox selected
+2023-05-08 13:58:00,194 :INFO : test_onboardingEntity2 :GST Number
+2023-05-08 13:58:00,271 :INFO : test_onboardingEntity2 :invalid GST
+2023-05-08 13:58:31,419 :INFO : test_onboardingEntity4 :Enter all the Credentials marked with Asterisk*
+2023-05-08 13:59:00,472 :INFO : test_onboardingEntity6 :checkbox selected
+2023-05-08 17:29:36,526 :INFO : test_onboardingEntity2 :GST Number
+2023-05-08 17:29:36,882 :INFO : test_onboardingEntity2 :invalid GST
+2023-05-08 17:30:27,413 :INFO : test_onboardingEntity4 :Enter all the Credentials marked with Asterisk*
+2023-05-08 17:31:13,268 :INFO : test_onboardingEntity6 :checkbox selected
